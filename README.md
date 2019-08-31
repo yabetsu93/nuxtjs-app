@@ -5,6 +5,10 @@
 ## To start the app
 
 ```
+
+To run the app do this first command :
+ ./do.sh start
+
 To get started:
 
 	cd nuxtjs-app
@@ -29,7 +33,7 @@ To get started:
 $ npm run install
 
 # serve with hot reload at localhost:3000
-$ npm run dev
+$ ./do.sh start
 
 # build for production and launch server
 $ npm run build
