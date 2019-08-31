@@ -2,6 +2,26 @@
 
 > Nuxtjs with mirofront-end
 
+## To start the app
+
+```
+To get started:
+
+	cd nuxtjs-app
+	npm run dev
+
+  To build & start for production:
+
+	cd nuxtjs-app
+	npm run build
+	npm run start
+
+  To test:
+
+	cd nuxtjs-app
+	npm run test
+```
+
 ## Build Setup
 
 ``` bash
