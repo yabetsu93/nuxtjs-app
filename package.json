@@ -12,7 +12,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "nuxt": "^2.9.2",
+    "nuxt": "^3.4.3",
     "cross-env": "^5.2.0",
     "micro": "^9.3.4",
     "micro-route": "^2.5.0"
